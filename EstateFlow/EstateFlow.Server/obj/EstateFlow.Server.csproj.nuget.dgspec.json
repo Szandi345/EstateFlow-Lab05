@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Server\\EstateFlow.Server.csproj": {}
+    "F:\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Server\\EstateFlow.Server.csproj": {}
   },
   "projects": {
-    "C:\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Application\\EstateFlow.Application.csproj": {
+    "F:\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Application\\EstateFlow.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Application\\EstateFlow.Application.csproj",
+        "projectUniqueName": "F:\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Application\\EstateFlow.Application.csproj",
         "projectName": "EstateFlow.Application",
-        "projectPath": "C:\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Application\\EstateFlow.Application.csproj",
-        "packagesPath": "C:\\Users\\Felhasznalo\\.nuget\\packages\\",
-        "outputPath": "C:\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Application\\obj\\",
+        "projectPath": "F:\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Application\\EstateFlow.Application.csproj",
+        "packagesPath": "C:\\Users\\tiger\\.nuget\\packages\\",
+        "outputPath": "F:\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Felhasznalo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\tiger\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -34,8 +34,8 @@
             "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Domain\\EstateFlow.Domain.csproj": {
-                "projectPath": "C:\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Domain\\EstateFlow.Domain.csproj"
+              "F:\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Domain\\EstateFlow.Domain.csproj": {
+                "projectPath": "F:\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Domain\\EstateFlow.Domain.csproj"
               }
             }
           }
@@ -368,20 +368,20 @@
         }
       }
     },
-    "C:\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Domain\\EstateFlow.Domain.csproj": {
+    "F:\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Domain\\EstateFlow.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Domain\\EstateFlow.Domain.csproj",
+        "projectUniqueName": "F:\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Domain\\EstateFlow.Domain.csproj",
         "projectName": "EstateFlow.Domain",
-        "projectPath": "C:\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Domain\\EstateFlow.Domain.csproj",
-        "packagesPath": "C:\\Users\\Felhasznalo\\.nuget\\packages\\",
-        "outputPath": "C:\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Domain\\obj\\",
+        "projectPath": "F:\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Domain\\EstateFlow.Domain.csproj",
+        "packagesPath": "C:\\Users\\tiger\\.nuget\\packages\\",
+        "outputPath": "F:\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Felhasznalo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\tiger\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -710,20 +710,20 @@
         }
       }
     },
-    "C:\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Infrastructure\\EstateFlow.Infrastructure.csproj": {
+    "F:\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Infrastructure\\EstateFlow.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Infrastructure\\EstateFlow.Infrastructure.csproj",
+        "projectUniqueName": "F:\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Infrastructure\\EstateFlow.Infrastructure.csproj",
         "projectName": "EstateFlow.Infrastructure",
-        "projectPath": "C:\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Infrastructure\\EstateFlow.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\Felhasznalo\\.nuget\\packages\\",
-        "outputPath": "C:\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Infrastructure\\obj\\",
+        "projectPath": "F:\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Infrastructure\\EstateFlow.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\tiger\\.nuget\\packages\\",
+        "outputPath": "F:\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Felhasznalo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\tiger\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -740,11 +740,11 @@
             "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Application\\EstateFlow.Application.csproj": {
-                "projectPath": "C:\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Application\\EstateFlow.Application.csproj"
+              "F:\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Application\\EstateFlow.Application.csproj": {
+                "projectPath": "F:\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Application\\EstateFlow.Application.csproj"
               },
-              "C:\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Domain\\EstateFlow.Domain.csproj": {
-                "projectPath": "C:\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Domain\\EstateFlow.Domain.csproj"
+              "F:\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Domain\\EstateFlow.Domain.csproj": {
+                "projectPath": "F:\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Domain\\EstateFlow.Domain.csproj"
               }
             }
           }
@@ -1065,20 +1065,20 @@
         }
       }
     },
-    "C:\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Server\\EstateFlow.Server.csproj": {
+    "F:\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Server\\EstateFlow.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Server\\EstateFlow.Server.csproj",
+        "projectUniqueName": "F:\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Server\\EstateFlow.Server.csproj",
         "projectName": "EstateFlow.Server",
-        "projectPath": "C:\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Server\\EstateFlow.Server.csproj",
-        "packagesPath": "C:\\Users\\Felhasznalo\\.nuget\\packages\\",
-        "outputPath": "C:\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Server\\obj\\",
+        "projectPath": "F:\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Server\\EstateFlow.Server.csproj",
+        "packagesPath": "C:\\Users\\tiger\\.nuget\\packages\\",
+        "outputPath": "F:\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Server\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Felhasznalo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\tiger\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -1095,11 +1095,11 @@
             "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Application\\EstateFlow.Application.csproj": {
-                "projectPath": "C:\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Application\\EstateFlow.Application.csproj"
+              "F:\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Application\\EstateFlow.Application.csproj": {
+                "projectPath": "F:\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Application\\EstateFlow.Application.csproj"
               },
-              "C:\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Infrastructure\\EstateFlow.Infrastructure.csproj": {
-                "projectPath": "C:\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Infrastructure\\EstateFlow.Infrastructure.csproj"
+              "F:\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Infrastructure\\EstateFlow.Infrastructure.csproj": {
+                "projectPath": "F:\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Infrastructure\\EstateFlow.Infrastructure.csproj"
               }
             }
           }
